@@ -1,4 +1,4 @@
-# 🚀 [LangChain-for-LLM-Application-Development]
+# LangChain-for-LLM-Application-Development
 
 1. 📚 **Models, Prompts and Parsers**: Discover how to call Language Models (LLMs), provide prompts, and parse the responses.
 2. 🧠 **Memories for LLMs**: Learn how to employ memories to store conversations and manage limited context space effectively.
