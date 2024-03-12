@@ -28,7 +28,6 @@
 
 5. 👥 **Agents**: Gain insights into the emerging development of LLMs as reasoning agents.
 
-By the end of this course, you will have a solid foundation in using LangChain and will be equipped with a model that can serve as a starting point for developing your own applications using diffusion models.
 
 ## Key Points
 - 🔑 Learn LangChain directly from Harrison Chase, the creator of the framework.
